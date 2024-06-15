@@ -1,0 +1,18 @@
+.optionButton {
+  padding: 5px 10px;
+  background-color: white;
+
+  border: 1px solid rgb(106, 75, 75);
+  border-radius: 4px;
+  cursor: pointer;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+.optionButton:hover {
+  background-color: rgb(0, 255, 179);
+}
+
+.optionButton:active {
+  background-color: #4ae163;
+  color: white;
+}
